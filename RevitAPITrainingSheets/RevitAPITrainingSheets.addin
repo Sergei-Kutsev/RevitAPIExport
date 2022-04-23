@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>RevitAPITrainingSheets.dll</Assembly>
+		<AddInId>1591C526-62AF-467B-9FB1-F20ABDDDFB14</AddInId>
+		<FullClassName>RevitAPITrainingSheets.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Экспорт сцены как изображение</Text>
+	</AddIn>
+</RevitAddIns>
